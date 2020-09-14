@@ -11,7 +11,7 @@ Test Template    Invalid Contact Credentials
 *** Test Cases ***      name        address     postalcode      phoneNumber
 Empty name              ${EMPTY}     Espoo        02230        04136611000
 Empty address           Semih        ${EMPTY}     02230        04136611000
-Empty postalcode        Semih        Espoo        ${EMPTY}     04136611000
+Empty postalcode        Semih2       Espoo        ${EMPTY}     04136611000
 
 
 *** Keywords ***
