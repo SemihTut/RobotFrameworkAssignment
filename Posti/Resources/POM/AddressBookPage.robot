@@ -59,7 +59,7 @@ User Should See The Error Message
 User Should See The Approved Message
     page should contain    Approved new contact
 
-Contact is deleted Message
+'Contact is Deleted' Message
     page should contain    Contact is deleted
 
 Save Contact

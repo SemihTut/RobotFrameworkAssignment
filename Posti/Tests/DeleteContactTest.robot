@@ -18,4 +18,4 @@ Delete a Contact From Contacts List
     Go to Address Book Page
     click element    ${list_of_contacts}
     click element    ${delete_contact_btn}
-    Contact is deleted Message
+    'Contact is Deleted' Message
