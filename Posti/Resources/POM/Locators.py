@@ -12,10 +12,10 @@ btn_signIn = "xpath://input[@name='login']"
 
 
 #Invoices Page Locators
-ListOfTheInvoices = "xpath://input[@class='all_Invoices']"
+listOfTheInvoices = "xpath://input[@class='all_Invoices']"
 anyElementInInvoicesPage = "css:#element"
-Invoices = "name:invoices"
-PaymentBtn = "id:payment"
+invoices = "name:invoices"
+paymentBtn = "id:payment"
 approvedMessage = "id:approved"
 declinedMessage = "id:declined"
 
