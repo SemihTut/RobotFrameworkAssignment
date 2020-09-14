@@ -1,8 +1,8 @@
 *** Settings ***
 Library    SeleniumLibrary
 Resource    ../Resources/CommonWeb.robot
-Resource    ../Resources/LoginPage.robot
-Resource    ../Resources/AddressBookPage.robot
+Resource    ../Resources/POM/LoginPage.robot
+
 
 
 *** Variables ***
