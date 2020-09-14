@@ -32,5 +32,5 @@ contact_address_input = "id:contactAddress"
 contact_postalCode_input = "id:contactPostalCode"
 contact_phone_number = "id:phoneNumber"
 done_btn = "id:addedNewContact"
-
+anyContact ="id:anyContact"
 

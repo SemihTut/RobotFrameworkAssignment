@@ -19,4 +19,9 @@ Blocked Users Should NOT be able to Make Payment
     BlockedUsersMakePayment
 
 
-
+Blocked Users Should NOT be able to Make Scheduled Payment
+    [Documentation]     TC010
+    [Tags]     Regression
+    Login with valid Credentials
+    Go to InvoicesPage
+    #

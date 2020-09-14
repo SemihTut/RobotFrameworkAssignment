@@ -13,7 +13,7 @@ ${name} = Semih
 ${address} = Matinkyla
 ${postalCode} = 02230
 ${phone} = 041111111
-
+#We can also do data driven testing in this particular test case from excel or CSV file
 
 *** Test Cases ***
 User Should be able to Add New Contact
