@@ -1,6 +1,5 @@
 POSTI / Robot Framework - Automation Challenge
 
-Abstract
 This repository provides an automation templates for web applications using the Robot Framework.
 Page Object Model (POM) is implemented into the framework.
 
